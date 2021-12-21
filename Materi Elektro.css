@@ -1,0 +1,33 @@
+body {
+  font-family: Arial;
+  padding: 10px;
+  background: #f1f1f1;
+     }
+ @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+.judul {
+	font-size: 30px;
+	font-family: 'Permanent Marker', cursive;
+}
+
+h3 {
+	 display:text-bottom;
+	 padding: 20px;
+	 text-align: center;
+	 background: orange;
+	 font-family: "Times New Roman", Times, serif;
+	 
+}
+h1  { 
+    padding: none;
+	text-align: center;
+	font-family: Times ;
+	font-size: 50px;
+	
+}
+ul {
+	
+	text-align: center;
+	background-image: url(d00c9934c9de06f1314f027637925239.jg);
+	background-repeat: repeat;
+	font-family: Times;
+}
